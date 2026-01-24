@@ -1,4 +1,4 @@
-## Oii, Eu sou o Pedro Silvério
+## Pedro Silvério
 <div class="Stats">
 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Ph1Tec&show_icons=true&theme=transparent">
