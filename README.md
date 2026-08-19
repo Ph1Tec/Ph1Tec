@@ -4,7 +4,7 @@ Olá! Me chamo Pedro, tenho 18 anos e sou estudante de Análise e Desenvolviment
 
 Sou formado em Técnico em Informática, juntamente com o Ensino Médio, e atualmente estou aprimorando meus conhecimentos em desenvolvimento de software e programação.
 
-💻 Tenho interesse principalmente em desenvolvimento Backend, trabalhando e estudando tecnologias como Java, Spring Boot, C#, SQL e desenvolvimento de APIs.
+💻 Tenho interesse principalmente em desenvolvimento Backend, trabalhando e estudando tecnologias como Java, Spring Boot, SQL e desenvolvimento de APIs.
 
 🚀 Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir minhas habilidades como desenvolvedor.
 <div align="start">  
