@@ -1,6 +1,12 @@
 ## Pedro Silvério
 <div class="Stats">
-  Me chamo Pedro Silvério, tenho 18 anos.
+Olá! Me chamo Pedro, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na USC.
+
+Sou formado em Técnico em Informática, juntamente com o Ensino Médio, e atualmente estou aprimorando meus conhecimentos em desenvolvimento de software e programação.
+
+💻 Tenho interesse principalmente em desenvolvimento Backend, trabalhando e estudando tecnologias como Java, Spring Boot, C#, SQL e desenvolvimento de APIs.
+
+🚀 Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir minhas habilidades como desenvolvedor.
 <div align="start">  
 </br>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -20,7 +26,7 @@
 <a href = "mailto:pedro16.tecinfo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Ph1Tec" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="[https://linkedin.com/in/Pedro Silvério](https://www.linkedin.com/in/pedro-silv%C3%A9rio-076618420/)" target="_blank">
+<a href="https://linkedin.com/in/pedro-silvério" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
