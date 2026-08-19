@@ -26,7 +26,7 @@ Sou formado em Técnico em Informática, juntamente com o Ensino Médio, e atual
 <a href = "mailto:pedro16.tecinfo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Ph1Tec" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/pedro-silvério" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-silv%C3%A9rio-076618420/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
